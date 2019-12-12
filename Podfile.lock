@@ -1,0 +1,16 @@
+PODS:
+  - CarLensCollectionViewLayout (1.2.0)
+
+DEPENDENCIES:
+  - CarLensCollectionViewLayout (~> 1.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CarLensCollectionViewLayout
+
+SPEC CHECKSUMS:
+  CarLensCollectionViewLayout: 75a28307dbd7dbacbba417d13501415ff3471a68
+
+PODFILE CHECKSUM: b61fa459bba8d8bf66d8b5fd1c39c625be14d705
+
+COCOAPODS: 1.5.3
